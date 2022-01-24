@@ -7,10 +7,11 @@
 }
 
 ::StoryTitle
-My test story! I sure hope this works...and it is giving me problems, of course.
+Modern Twee
 
 :: Start
 This is the first passage in a Twine game!
+I sure hope this works...
 
 [[This is a link|Next Passage]]
 
