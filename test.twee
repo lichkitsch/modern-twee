@@ -11,10 +11,11 @@ Modern Twee
 
 :: Start
 This is the first passage in a Twine game!
-I sure hope this works...
+I sure hope this works… It did!
 
 [[This is a link|Next Passage]]
 
 
 :: Next Passage
 The player just clicked a link to get here!
+Now let’s see how it handles an update from mobile…
