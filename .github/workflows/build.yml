@@ -20,7 +20,7 @@ jobs:
         run: |
           go get github.com/tmedwards/tweego
           export PATH=$PATH:$(go env GOPATH)/bin
-          tweego test.twee -o dist/index.html
+          tweego -o dist/index.html test.twee
       - name: Deploy to Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
