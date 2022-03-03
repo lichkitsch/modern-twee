@@ -11,6 +11,9 @@ body {
     
 }
 
+:: Javascript [script]
+var pronouns = ["they","them"];
+
 ::StoryTitle
 Modern Twee
 
