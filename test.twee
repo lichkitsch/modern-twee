@@ -7,9 +7,11 @@
 }
 
 :: Stylesheet [stylesheet]
-body {
-    
-}
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500&family=Average&display=swap');
+
+body { font-family: 'Average', serif; }
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Alegreya SC', serif; }
 
 :: Javascript [script]
 var pronouns = ["they","them"];
