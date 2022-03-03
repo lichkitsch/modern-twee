@@ -6,11 +6,9 @@
     "start": "Start"
 }
 
-<style>
-  #story {
-    background: pink;
-  }
-</style>
+#story {
+  background: pink;
+}
 
 ::StoryTitle
 Modern Twee
