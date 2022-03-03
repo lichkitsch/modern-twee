@@ -10,12 +10,10 @@
 Modern Twee
 
 :: Start
-<<type 40ms start 2s keep>>
-	This is the first passage in a Twine game!
-    I sure hope this works… It did!
+This is the first passage in a Twine game!
+I sure hope this works… It did!
 
-    [[This is a link|Next Passage]]
-<</type>>
+[[This is a link|Next Passage]]
 
 
 :: Next Passage
