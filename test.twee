@@ -6,6 +6,11 @@
     "start": "Start"
 }
 
+:: Stylesheet [stylesheet]
+body {
+    background: pink;
+}
+
 ::StoryTitle
 Modern Twee
 
