@@ -6,10 +6,6 @@
     "start": "Start"
 }
 
-#story {
-  background: pink;
-}
-
 ::StoryTitle
 Modern Twee
 
